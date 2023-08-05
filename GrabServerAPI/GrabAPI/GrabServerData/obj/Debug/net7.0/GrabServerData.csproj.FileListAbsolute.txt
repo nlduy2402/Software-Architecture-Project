@@ -1,0 +1,17 @@
+D:\New folder\GrabServerAPI\GrabAPI\GrabServerData\bin\Debug\net7.0\GrabServerData.deps.json
+D:\New folder\GrabServerAPI\GrabAPI\GrabServerData\bin\Debug\net7.0\GrabServerData.runtimeconfig.json
+D:\New folder\GrabServerAPI\GrabAPI\GrabServerData\bin\Debug\net7.0\GrabServerData.dll
+D:\New folder\GrabServerAPI\GrabAPI\GrabServerData\bin\Debug\net7.0\GrabServerData.pdb
+D:\New folder\GrabServerAPI\GrabAPI\GrabServerData\bin\Debug\net7.0\GrabServerCore.dll
+D:\New folder\GrabServerAPI\GrabAPI\GrabServerData\bin\Debug\net7.0\GrabServerCore.pdb
+D:\New folder\GrabServerAPI\GrabAPI\GrabServerData\obj\Debug\net7.0\GrabServerData.csproj.AssemblyReference.cache
+D:\New folder\GrabServerAPI\GrabAPI\GrabServerData\obj\Debug\net7.0\GrabServerData.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\GrabServerAPI\GrabAPI\GrabServerData\obj\Debug\net7.0\GrabServerData.AssemblyInfoInputs.cache
+D:\New folder\GrabServerAPI\GrabAPI\GrabServerData\obj\Debug\net7.0\GrabServerData.AssemblyInfo.cs
+D:\New folder\GrabServerAPI\GrabAPI\GrabServerData\obj\Debug\net7.0\GrabServerData.csproj.CoreCompileInputs.cache
+D:\New folder\GrabServerAPI\GrabAPI\GrabServerData\obj\Debug\net7.0\GrabServerData.csproj.CopyComplete
+D:\New folder\GrabServerAPI\GrabAPI\GrabServerData\obj\Debug\net7.0\GrabServerData.dll
+D:\New folder\GrabServerAPI\GrabAPI\GrabServerData\obj\Debug\net7.0\refint\GrabServerData.dll
+D:\New folder\GrabServerAPI\GrabAPI\GrabServerData\obj\Debug\net7.0\GrabServerData.pdb
+D:\New folder\GrabServerAPI\GrabAPI\GrabServerData\obj\Debug\net7.0\GrabServerData.genruntimeconfig.cache
+D:\New folder\GrabServerAPI\GrabAPI\GrabServerData\obj\Debug\net7.0\ref\GrabServerData.dll
